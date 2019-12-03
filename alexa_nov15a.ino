@@ -1,5 +1,5 @@
 //include support files
-#include "arduino_secrets.h"
+#include "arduino_secrets_alexa.h"
 #include "thingProperties.h"
 
 //include MQTT and HTTP libraries
