@@ -216,7 +216,6 @@ void onModalitaSleepChange() {
   }
 }
 
-
 void onModalitaManualChange() {
    if(modalitaSleep != 0 || modalitaFree != 0 && modalitaManual == 1){ //the state of the manual mode changes and then this function is executed, for this reason this "if" is only executed if there are 2 modes at 1
     modalitaSleep = 0;
