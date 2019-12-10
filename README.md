@@ -5,6 +5,7 @@ You can find all information about the project in the paper [Lab of IoT Document
 
 After downloading the project, move the files with the commit description **"Files about Alexa, and antigas and fire system"**, 
 in a folder that is equivalent to an Arduino IDE project, and connect this project to the Arduino MKR WiFi 1010 board, after entering the missing parts shown.
+
 Then, move the files with the commit description **"File about remote energy saving system"**, 
 in a folder that is equivalent to an Arduino IDE project, and connect this project to the Arduino UNO WiFi Rev2, after entering the missing parts shown.
 
